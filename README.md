@@ -1,4 +1,4 @@
-# EvalHerramientasRPA176455_206127 - Evaluación de Herramientas RPA
+# Evaluación de Herramientas RPA
 
 Este proyecto se desarrolla como trabajo final de la carrera de Ingeniería en Sistemas en la Universidad ORT Uruguay.
 
