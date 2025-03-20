@@ -1,6 +1,8 @@
-# EvalHerramientasRPA176455_206127
-Proyecto de fin de carrera Evaluación de Herramientas RPA, universidad ORT
+# EvalHerramientasRPA176455_206127 - Evaluación de Herramientas RPA
 
+Este proyecto se desarrolla como trabajo final de la carrera de Ingeniería en Sistemas en la Universidad ORT Uruguay.
+Su objetivo principal es adaptar una metodología de evaluación, originalmente diseñada para sistemas de gestión de procesos de negocio (BPMS), a la evaluación de herramientas de Automatización Robótica de Procesos (RPA). Este trabajo contribuye a la sistematizacion en la evaluacion y seleccion de herramientas RPA, facilitando la toma de decisiones informadas.
+En este repositorio se encuentra el material de trabajo utilizado a lo largo del proyecto, así como los templates que respaldan la aplicación del proceso de evaluación propuesto.
 
 ## Autores
 
@@ -8,6 +10,7 @@ Proyecto de fin de carrera Evaluación de Herramientas RPA, universidad ORT
 - Romina Giaccio (ORT, Uruguay)
 
 ## Tutor
+
 - Daniel Calegari (ORT, Uruguay)
 
 ## Información de directorios
