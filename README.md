@@ -10,9 +10,6 @@ Proyecto de fin de carrera Evaluación de Herramientas RPA, universidad ORT
 ## Tutor
 - Daniel Calegari (ORT, Uruguay)
 
-## Informacion de directorios
-
-
 ## Información de directorios
 
     .
