@@ -19,13 +19,13 @@ This repository contains the working materials used throughout the project, as w
 
     .
     ├── Templates                
-    │   ├── 3_Template para evaluación de herramientas RPA - todos los criterios.xlsx        # Template for detailed RPA tool evaluation.
-    │   └── 6_Template criterios de evaluación de herramientas RPA y cluster.xlsx            # Template for pruning RPA tools based on cutoff criteria.
+    │   ├── RPAToolEvaluationTemplate-AllCriteria.xlsx # Template for detailed RPA tool evaluation.
+    │   └── CutoffEvaluationTemplateAndCluster.xlsx    # Template for pruning RPA tools based on cutoff criteria.
     └── WorkItems                
-        ├── 1_Criterios de evaluación de herramientas RPA.xlsx                               # List of evaluation criteria surveyed, including articles, evaluators, and some RPA tools.
-        ├── 2_Criterios de evaluación de herramientas RPA y cluster.xlsx                     # Evaluation of all RPA tools with a rating higher than 4.4 on Gartner, relative to cutoff criteria.
-        ├── 4_Evaluación de herramientas RPA - con criterios selecc.xlsx                     # Detailed evaluation of two selected RPA tools relative to selected evaluation criteria.
-        └── 5_Criterios para evaluación de herramientas RPA - criterios actualizados.xlsx    # Updated evaluation criteria
+        ├── EvaluationCriteria4RPA.xlsx    # List of evaluation criteria surveyed, including articles, evaluators, and some RPA tools.
+        ├── FirstEvaluationExample.xlsx    # Evaluation of all RPA tools with a rating higher than 4.4 on Gartner, relative to cutoff criteria.
+        ├── ToolEvaluationExample.xlsx     # Detailed evaluation of two selected RPA tools relative to selected evaluation criteria.
+        └── SelectedCriteria4Example.xlsx  # Updated evaluation criteria
 
 
 
